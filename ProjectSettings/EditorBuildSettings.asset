@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/SIMUNI-MIROS/Iniciarsesion.unity
     guid: 878e0bdc136d67642876fb5b29c60b69
+  - enabled: 1
+    path: Assets/SIMUNI-MIROS/Comunidades-Miros.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects: {}
