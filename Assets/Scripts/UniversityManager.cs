@@ -4,14 +4,14 @@ using UnityEngine;
 
 public class UniversityManager : MonoBehaviour
 {
-    public ComunityViewPanel ComunityViewPanel;
+    public UniversitiesViewPanel universitiesViewPanel;
     public UniversityDetailViewPanel universityDetailViewPanel;
 
     public List<Univerisity> universities;
 
     private void Start()
     {
-        ComunityViewPanel.InstanceUniversityCards(universities);
+        universitiesViewPanel.InstanceUniversityCards(universities);
     }
 
 }
