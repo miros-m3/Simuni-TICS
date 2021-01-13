@@ -26,7 +26,7 @@ public class UniversityDetailViewPanel : View
         if (university != null)
         {
             UniversityNameText.text = university.Name;
-            UniverityPictureImage.sprite = university.Picture;
+            //UniverityPictureImage.sprite = university.Picture;
             UniversityBodyText.text = university.Description;
             UniversityPhoneText.text = university.Phone;
             UniversityAddressText.text = university.Address;

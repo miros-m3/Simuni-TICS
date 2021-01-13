@@ -9,7 +9,7 @@ public class UniversityCardObjectBahaviour : MonoBehaviour
     public int stringTruncateValue = 0;
 
     [Header("University Card UI Objects")]
-    public Image cardImage;
+    //public Image cardImage;
     public Text cardTitleText;
     public Text cardBodyText;
 
@@ -25,7 +25,7 @@ public class UniversityCardObjectBahaviour : MonoBehaviour
         if (university != null) {
             cardTitleText.text = university.Name;
             cardBodyText.text = Truncate(university.Description, stringTruncateValue);
-            cardImage.sprite = university.Picture;
+            //cardImage.sprite = university.Picture;
         }
     }
 
