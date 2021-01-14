@@ -22,7 +22,7 @@ public class MenuViewPanel : View
     public void MyPostViewButtonOnClick()
     {
         //ScreenManager.currentView.SetActive(false);
-        ScreenManager.instance.ChangeView(ViewID.UniversityView, true);
+        // ScreenManager.instance.ChangeView(ViewID.UniversityView, true);
         ScreenManager.instance.GetMenuView().SetActive(false);
         ScreenManager.instance.ChangeView(ViewID.MyPostView, false);
         
