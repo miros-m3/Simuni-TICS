@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class NewPostView : View
+public class NuevoPostView : View
 
 {
 

@@ -16,6 +16,8 @@ public class ScreenManager : MonoBehaviour {
     [SerializeField]
     private View currentView = null;
 
+    //public View currentView2;
+
     [Header("Menu View")]
     [SerializeField]
     private View menuView = null;

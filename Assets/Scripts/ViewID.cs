@@ -9,5 +9,7 @@ public enum ViewID {
     MainView,
     TestView,
     CalendarView,
-    CreateNoteView
+    CreateNoteView,
+    NuevoPostView,
+    MyPostView
 }
