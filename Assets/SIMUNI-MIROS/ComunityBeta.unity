@@ -11095,7 +11095,7 @@ MonoBehaviour:
   MyPostViewPanel: {fileID: 104718846}
   universityDetailViewPanel: {fileID: 1127220516}
   universities:
-  - Name: Modelo
+  - Name: "\xBFQu\xE9 deberia hacer?"
     Description: Para si para todos. Para si para todos.Para si para todos.Para si
       para todos.Para si para todos.Para si para todos.Para si para todos.Para si
       para todos.Para si para todos.Para si para todos.Para si para todos.Para si
@@ -11103,18 +11103,27 @@ MonoBehaviour:
     Picture: {fileID: 21300000, guid: 915c3b93d4a68024184599422a4671aa, type: 3}
     Address: "Direcci\xF3n: Periferico"
     Phone: 'Telefono: 999999999'
-  - Name: UADY
-    Description: Lorem Ipsum
+  - Name: "\xBFQu\xE9 debria estudiar?"
+    Description: Para si para todos. Para si para todos.Para si para todos.Para si
+      para todos.Para si para todos.Para si para todos.Para si para todos.Para si
+      para todos.Para si para todos.Para si para todos.Para si para todos.Para si
+      para todos.Para si para todos.Para si para todos.Para si para todos.
     Picture: {fileID: 21300000, guid: 4e479d2b89cbcec46926ac3845afc887, type: 3}
     Address: Centro
     Phone: 8888888888
-  - Name: UVM
-    Description: Universidad del Valle de Mexico ofrece...
+  - Name: "\xBFC\xF3mo entro? "
+    Description: Para si para todos. Para si para todos.Para si para todos.Para si
+      para todos.Para si para todos.Para si para todos.Para si para todos.Para si
+      para todos.Para si para todos.Para si para todos.Para si para todos.Para si
+      para todos.Para si para todos.Para si para todos.Para si para todos.
     Picture: {fileID: 21300000, guid: c5b56870c68e06f499b32ec4af676270, type: 3}
     Address: Carretera Progreso
     Phone: 77777777777
-  - Name: Marista
-    Description: Nuestra mascota es un reno
+  - Name: "\xBFEs buena universidad?"
+    Description: Para si para todos. Para si para todos.Para si para todos.Para si
+      para todos.Para si para todos.Para si para todos.Para si para todos.Para si
+      para todos.Para si para todos.Para si para todos.Para si para todos.Para si
+      para todos.Para si para todos.Para si para todos.Para si para todos.
     Picture: {fileID: 21300000, guid: 6fa408831a4d47b4fae26821b0234691, type: 3}
     Address: Por la Gran Plaza
     Phone: 66666666666
@@ -11456,6 +11465,34 @@ PrefabInstance:
     - target: {fileID: 1997146490869230060, guid: d348cce533430b74c8b670640de81cfd, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1997146490869230063, guid: d348cce533430b74c8b670640de81cfd, type: 3}
+      propertyPath: m_Transition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1997146490869230063, guid: d348cce533430b74c8b670640de81cfd, type: 3}
+      propertyPath: m_Colors.m_NormalColor.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1997146490869230063, guid: d348cce533430b74c8b670640de81cfd, type: 3}
+      propertyPath: m_Colors.m_PressedColor.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1997146490869230063, guid: d348cce533430b74c8b670640de81cfd, type: 3}
+      propertyPath: m_Colors.m_PressedColor.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1997146490869230063, guid: d348cce533430b74c8b670640de81cfd, type: 3}
+      propertyPath: m_Colors.m_PressedColor.b
+      value: 0.29803923
+      objectReference: {fileID: 0}
+    - target: {fileID: 1997146490869230063, guid: d348cce533430b74c8b670640de81cfd, type: 3}
+      propertyPath: m_Colors.m_PressedColor.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1997146490869230063, guid: d348cce533430b74c8b670640de81cfd, type: 3}
+      propertyPath: m_Colors.m_HighlightedColor.a
+      value: 0.5764706
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d348cce533430b74c8b670640de81cfd, type: 3}

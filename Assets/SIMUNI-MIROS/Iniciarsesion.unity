@@ -2775,6 +2775,14 @@ PrefabInstance:
       propertyPath: m_HideMobileInput
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 7916833761011543189, guid: 4d76158849f399f41b2b235e88aed257, type: 3}
+      propertyPath: m_ContentType
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 7916833761011543189, guid: 4d76158849f399f41b2b235e88aed257, type: 3}
+      propertyPath: m_InputType
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 7916833761011543190, guid: 4d76158849f399f41b2b235e88aed257, type: 3}
       propertyPath: m_Name
       value: "Input-inicio-contrase\xF1a"
@@ -4009,6 +4017,7 @@ GameObject:
   - component: {fileID: 1127226535}
   - component: {fileID: 1127226537}
   - component: {fileID: 1127226536}
+  - component: {fileID: 1127226538}
   m_Layer: 0
   m_Name: logo
   m_TagString: Untagged
@@ -4073,6 +4082,25 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1127226534}
   m_CullTransparentMesh: 0
+--- !u!95 &1127226538
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1127226534}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 0}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &1154718283
 GameObject:
   m_ObjectHideFlags: 0
@@ -5362,6 +5390,14 @@ PrefabInstance:
       propertyPath: m_HideMobileInput
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 7916833761011543189, guid: 4d76158849f399f41b2b235e88aed257, type: 3}
+      propertyPath: m_ContentType
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 7916833761011543189, guid: 4d76158849f399f41b2b235e88aed257, type: 3}
+      propertyPath: m_InputType
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 7916833761011543190, guid: 4d76158849f399f41b2b235e88aed257, type: 3}
       propertyPath: m_Name
       value: "Input-inicio-contrase\xF1a (1)"
@@ -6302,6 +6338,14 @@ PrefabInstance:
     - target: {fileID: 7916833761011543189, guid: 4d76158849f399f41b2b235e88aed257, type: 3}
       propertyPath: m_HideMobileInput
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7916833761011543189, guid: 4d76158849f399f41b2b235e88aed257, type: 3}
+      propertyPath: m_ContentType
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 7916833761011543189, guid: 4d76158849f399f41b2b235e88aed257, type: 3}
+      propertyPath: m_InputType
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 7916833761011543190, guid: 4d76158849f399f41b2b235e88aed257, type: 3}
       propertyPath: m_Name

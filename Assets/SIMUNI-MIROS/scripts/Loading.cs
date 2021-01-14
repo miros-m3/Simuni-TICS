@@ -84,7 +84,7 @@ public class Loading : MonoBehaviour
     public void LoadApp()
     {
         // Only specifying the sceneName or sceneBuildIndex will load the Scene with the Single mode
-        UnityEngine.SceneManagement.SceneManager.LoadScene("Comunidades-Miros", LoadSceneMode.Single);
+        UnityEngine.SceneManagement.SceneManager.LoadScene("ComunityBeta", LoadSceneMode.Single);
     }
 
     public void LogIn()
